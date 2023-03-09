@@ -11,15 +11,15 @@ The biggest reason to use translate is to make translations in a simple way with
 
 ## Usage
 Change default settings in config.cfg:
-.. code-block:: bash
-
+```
    [SETTINGS]
    url = https://www.example.com
    source_lang = en
    target_lang = tr
+```
 
 and run the command line:
 
-.. code-block:: bash
-
+```
    $ python main.py
+```
